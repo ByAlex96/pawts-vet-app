@@ -23,16 +23,13 @@ Native Android app built with **Flutter** for full management of a veterinary cl
 - Functional test suite
 
 ---
-
 ## 🎥 Demo Video
 
 > ℹ️ The demo was recorded at the time of project handoff.  
 > The APK may not fully reflect the current state of the app,  
 > as further changes may have been made to the codebase after delivery.
 
-[▶️ Watch demo video]<video src="demo/PawtsVideo.mp4" width="100%" controls>
-  Tu navegador no soporta la reproducción de este vídeo.
-</video>
+<video src="https://res.cloudinary.com/fhisr73j/video/upload/v1783345486/PawtsVideo_braabu.mp4" width="100%" controls></video>
 
 ---
 
