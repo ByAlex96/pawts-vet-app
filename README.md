@@ -1,4 +1,4 @@
-# 🐾 PAWTS — Veterinary Clinic App
+x# 🐾 PAWTS — Veterinary Clinic App
 
 Native Android app built with **Flutter** for full management of a veterinary clinic.
 
@@ -29,7 +29,7 @@ Native Android app built with **Flutter** for full management of a veterinary cl
 > The APK may not fully reflect the current state of the app,  
 > as further changes may have been made to the codebase after delivery.
 
-<video src="https://res.cloudinary.com/fhisr73j/video/upload/v1783345486/PawtsVideo_braabu.mp4" width="100%" controls></video>
+<video src="https://github.com/ByAlex96/pawts-vet-app/releases/download/v1.0.0/PawtsVideo.mp4" width="100%" controls></video>
 
 ---
 
