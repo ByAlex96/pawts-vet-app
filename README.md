@@ -29,7 +29,12 @@ Native Android app built with **Flutter** for full management of a veterinary cl
 > The APK may not fully reflect the current state of the app,  
 > as further changes may have been made to the codebase after delivery.
 
-<video src="https://github.com/ByAlex96/pawts-vet-app/releases/download/v1.0.0/PawtsVideo.mp4" width="100%" controls></video>
+🔽 **How to watch the demo video:**
+1. Look at the file list of this repository and locate `PawtsVideo.mp4`.
+2. Click on the file to open it here on GitHub.
+3. Click the **"Download"** button (or "View raw") to save the video to your device and watch the full app walkthrough.
+
+👉 [Go straight to the video file](PawtsVideo.mp4)
 
 ---
 
