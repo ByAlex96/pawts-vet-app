@@ -1,51 +1,56 @@
-x# 🐾 PAWTS — Veterinary Clinic App
+# 🐾 PAWTS — Veterinary Clinic App
 
-Native Android app built with **Flutter** for full management of a veterinary clinic.
+Aplicación nativa para Android desarrollada con **Flutter** para la gestión integral de una clínica veterinaria.
 
-> ⚠️ Source code is private (client project).  
-> APK and demo available below.
-
----
-
-## 🔐 Demo Credentials
-
-| Field    | Value                        |
-|----------|------------------------------|
-| Email    | alexander.k.perez96@gmail.com |
-| Password | 123456                       |
+> ⚠️ El código fuente es privado (proyecto para cliente).  
+> El APK y el video de demostración están disponibles abajo.
 
 ---
 
-## 📱 Features
-- Pet records and clinical history
-- Appointment scheduling
-- Admin panel
-- Functional test suite
+## 🔐 Credenciales de Demostración
 
----
-## 🎥 Demo Video
-
-> ℹ️ The demo was recorded at the time of project handoff.  
-> The APK may not fully reflect the current state of the app,  
-> as further changes may have been made to the codebase after delivery.
-
-🔽 **How to watch the demo video:**
-1. Look at the file list of this repository and locate `PawtsVideo.mp4`.
-2. Click on the file to open it here on GitHub.
-3. Click the **"Download"** button (or "View raw") to save the video to your device and watch the full app walkthrough.
-
-👉 [Go straight to the video file](PawtsVideo.mp4)
+| Campo       | Valor                         |
+|-------------|-------------------------------|
+| Email       | alexander.k.perez96@gmail.com |
+| Contraseña  | 123456                        |
 
 ---
 
-## ⬇️ Download APK
+## 📱 Responsabilidades Clave y Funcionalidades Desarrolladas
 
-👉 [Download PAWTS v1.0](https://github.com/ByAlex96/pawts-vet-app/releases/download/v1.0.0/Pawts-release.1.apk)
+Como desarrollador principal de este proyecto, fui responsable de diseñar e implementar la arquitectura frontend, la gestión de estados y la integración con la base de datos para las siguientes funcionalidades:
 
-> Install on any Android device. You may need to enable  
-> **"Install from unknown sources"** in your device settings.
+* **Autenticación y Gestión de Usuarios:** Implementé el flujo completo de autenticación de usuarios, asegurando las operaciones de inicio de sesión y registro mediante verificación con la base de datos.
+* **Arquitectura de la Página de Inicio (Home Page):** Desaré el panel de control principal (dashboard), garantizando una experiencia de usuario fluida y un diseño intuitivo para la navegación de la clínica.
+* **Sistema de Perfiles:** Desarrollé los módulos de creación, almacenamiento y gestión tanto para los perfiles de los dueños como para los de las mascotas.
+* **Calendario y Agenda de Citas:** Diseñé un calendario interactivo para gestionar, programar y realizar el seguimiento de las citas médicas de las mascotas.
+* **Carga de Documentación Médica:** Diseñé la capa de almacenamiento para la subida de documentos críticos de las mascotas, incluyendo cartillas de vacunación e historial clínico completo.
+* **Área de Notas del Doctor y Dueño:** Implementé secciones de notas dedicadas que permiten tanto a los veterinarios como a los dueños registrar observaciones médicas o el seguimiento de cuidados especializados.
+* **Módulo de Tienda Integrada:** Desarrollé la interfaz del área de comercio electrónico y venta minorista de la clínica para la adquisición de productos y tratamientos para mascotas.
+* **Pruebas (Testing):** Diseñé y ejecuté una suite de pruebas funcionales para garantizar la estabilidad del código en todas las funcionalidades.
 
 ---
 
-## 🛠 Tech Stack
+## 🎥 Video de Demostración
+
+> ℹ️ La demostración fue grabada en el momento de la entrega del proyecto.  
+> El APK podría no reflejar completamente el estado actual de la aplicación, ya que se pueden haber realizado cambios posteriores en el código tras la entrega.
+
+🔽 **Cómo ver la demostración:**
+Haz clic en el enlace de abajo para descargar el video completo del recorrido de la app directamente en tu dispositivo.
+
+👉 [📥 Descargar y Ver Video de Demo (MP4)](https://github.com/ByAlex96/pawts-vet-app/releases/download/v1.0.0/PawtsVideo.mp4)
+
+---
+
+## ⬇️ Descargar APK
+
+👉 [Descargar PAWTS v1.0](https://github.com/ByAlex96/pawts-vet-app/releases/download/v1.0.0/Pawts-release.1.apk)
+
+> Instálalo en cualquier dispositivo Android. Es posible que debas activar la opción  
+> **"Instalar desde fuentes desconocidas"** en los ajustes de tu dispositivo.
+
+---
+
+## 🛠️ Stack Tecnológico
 Flutter · Dart · Android
